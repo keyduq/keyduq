@@ -12,7 +12,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: keyduq/metrics@latest
+      - uses: keyduq/metrics@master
         with:
           # Your GitHub token
           # The following scopes are required:
