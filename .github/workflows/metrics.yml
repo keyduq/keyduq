@@ -45,7 +45,10 @@ jobs:
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
           plugin_repositories: yes
-          plugin_repositories_order: featured, pinned, starred, random
+          plugin_repositories_order: pinned, featured, starred, random
+          plugin_repositories_pinned: 4
+          plugin_repositories_random: 2
+          plugin_repositories_starred: 2
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_analysis_timeout_repositories: 7.5
