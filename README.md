@@ -1,6 +1,6 @@
 <a href="#">
-  <img height=200 align=center src="https://github-readme-stats-plum-seven-22.vercel.app/api?username=keyduq&show_icons=true&theme=transparent&show=prs_merged&hide=stars&hide_rank=true&include_all_commits=true" />
+  <img height=200 align=center src="https://github-readme-stats-plum-seven-22.vercel.app/api?username=keyduq&show_icons=true&theme=github_dark&show=prs_merged&hide=stars&hide_rank=true&include_all_commits=true" />
 </a>
 <a href="#">
-  <img height=200 align=center src="https://github-readme-stats-plum-seven-22.vercel.app/api/top-langs/?username=keyduq&theme=transparent&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact" />
+  <img height=200 align=center src="https://github-readme-stats-plum-seven-22.vercel.app/api/top-langs/?username=keyduq&theme=github_dark&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact" />
 </a>
