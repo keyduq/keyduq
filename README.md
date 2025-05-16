@@ -1,1 +1,2 @@
-[![Keyduq's GitHub stats](https://github-readme-stats-plum-seven-22.vercel.app/api?username=keyduq)](https://github.com/keyduq/github-readme-stats)
+[![Top Langs](https://github-readme-stats-plum-seven-22.vercel.app/api/top-langs/?username=keyduq&theme=radical&size_weight=0.5&count_weight=0.5&hide=css,html&langs_count=6&layout=donut)](https://github.com/keyduq/github-readme-stats)
+[![Keyduq's GitHub stats](https://github-readme-stats-plum-seven-22.vercel.app/api?username=keyduq&show_icons=true&theme=radical&show=prs_merged&hide=stars&hide_rank=true&include_all_commits=true)](https://github.com/keyduq/github-readme-stats)
